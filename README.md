@@ -1,4 +1,4 @@
-#Lotto app
+# Lotto app
 
 This app uses data from
 http://megalotto.pl/wyniki/lotto/100-ostatnich-losowan for lotto
